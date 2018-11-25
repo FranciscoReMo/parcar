@@ -2,8 +2,11 @@ package com.desarrollos.entde;
 
 public class Garage{
     
-    public void printGarage() 
+    /**
+     *
+     */
+    public static void printGarage() 
     {
-        system.out.print("|*]");
+        System.out.print("|*]");
     }
 }
